@@ -1,4 +1,3 @@
-/*  your css code here. If applicable */
 *{
     margin: 0;
     padding: 0;
@@ -14,6 +13,15 @@ text-align: center;
 
 .book-library{
     background-color: #ffffff;
+}
+
+.book{
+    margin-top: 20px;
+    padding: 10px;
+}
+.image{
+    display: flex;
+    justify-content: center;
 }
 
 .author{
